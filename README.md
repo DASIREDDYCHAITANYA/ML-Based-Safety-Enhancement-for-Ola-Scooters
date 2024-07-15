@@ -1,0 +1,6 @@
+- load dataset in collab to content dir
+- create a dataset of 5 records and give your file name in place of data.csv
+- now create your weights from crammer's rule - https://matrix.reshish.com/cramer.php
+- assign your weights inplace {w1,w2,..
+- after creating 100000 records now save to drive
+- now change path in regressions models
